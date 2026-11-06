@@ -14,7 +14,6 @@ We understand that organisations may have services and products that still depen
 ## Forking
 Nancy's licence is permissible so we encourage forking if you need to perform maintenance. However, the logos and name are copyright to Andreas Håkansson and Steven Robbins and are not for re-use or editing. Please see full licence information [here](https://github.com/NancyFx/Nancy.Portfolio/blob/master/license.txt)
 
-
 ------------------------------------------------------------------------------------------------------------------------------------------
 # Meet Nancy [![NuGet Version](http://img.shields.io/nuget/v/Nancy.svg?style=flat)](https://www.nuget.org/packages/Nancy/) [![Slack Status](http://slack.nancyfx.org/badge.svg)](http://slack.nancyfx.org)
 
